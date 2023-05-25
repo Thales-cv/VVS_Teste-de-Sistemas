@@ -1,0 +1,9 @@
+Leia o material sobre teste de sistema disponível no Moodle.
+
+Escolha um sistema Web para testar usando a ferramenta Selenium. Pode ser o PetClinic descrito no texto ou outro de sua preferência. O teste deve compreender pelo menos duas "jornadas de usuário" conforme descrito no texto disponível no "card" intitulado "Teste de integração e teste de sistema". Entregar um relatório descrevendo o sistema alvo, o processo e os resultados.
+
+Etapa 1: definição do sistema a ser testado e preparação do ambiente (até a aula de 30/05)
+
+Etapa 2: entrega do relatório final (até o dia 4/6)
+
+Esta tarefa irá valer 50% do trabalho final.
